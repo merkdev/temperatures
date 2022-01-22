@@ -1,5 +1,8 @@
 # Temperatures
 
+## Status
+[![CircleCI](https://circleci.com/gh/merkdev/temperatures/tree/main.svg?style=svg)](https://circleci.com/gh/merkdev/temperatures/tree/main)
+
 <p align="center">
   <img width="128" height="128" src="./logo.png">
 </p>
@@ -31,7 +34,7 @@ import TempConvert from "temperatures";
 
 console.log(TempConvert.convert({
   from: "C",
-  to: "F",
+  to: "K",
   value: 30
 }));
 ```
@@ -40,7 +43,7 @@ console.log(TempConvert.convert({
 // ES5
 const x = require("temperatures").default;
 
-console.log(x.CToF(11));
+console.log(x.KToF(11));
 ```
 
 ## License
