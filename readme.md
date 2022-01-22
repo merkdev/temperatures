@@ -1,7 +1,7 @@
 # Temperatures
 
-## Status
-[![CircleCI](https://circleci.com/gh/merkdev/temperatures/tree/main.svg?style=svg)](https://circleci.com/gh/merkdev/temperatures/tree/main)
+## Test results
+[![CircleCI](https://circleci.com/gh/merkdev/temperatures/tree/circleci-project-setup.svg?style=svg)](https://circleci.com/gh/merkdev/temperatures/tree/circleci-project-setup)
 
 <p align="center">
   <img width="128" height="128" src="./logo.png">
