@@ -1,11 +1,11 @@
 # Temperatures
 
-## Test results
-[![CircleCI](https://circleci.com/gh/merkdev/temperatures/tree/circleci-project-setup.svg?style=svg)](https://circleci.com/gh/merkdev/temperatures/tree/circleci-project-setup)
-
 <p align="center">
   <img width="128" height="128" src="./logo.png">
 </p>
+
+## Test results
+[![CircleCI](https://circleci.com/gh/merkdev/temperatures/tree/circleci-project-setup.svg?style=svg)](https://circleci.com/gh/merkdev/temperatures/tree/circleci-project-setup)
 
 ## Information
 Convert any temperature between Celcius, Fahrenheit and Kelvin or vice versa.
